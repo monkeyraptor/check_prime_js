@@ -4,7 +4,7 @@ function primeCheck(g) {
         mod = 2,
         output = 1;
     g = Number(g);
-    if (g >= 2 && && g % Math.floor(g) === 0) {
+    if (g >= 2 && g % Math.floor(g) === 0) {
         limit = Math.sqrt(g);
         while (mod <= limit) {
             if (g % mod === 0) {
