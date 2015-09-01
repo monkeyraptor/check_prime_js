@@ -1,11 +1,13 @@
 # primeCheck.js
 JavaScript snippet to check whether a number is a prime number or not.
 
-How to use:
+## How to use
 ```
 primeCheck(your_number)
 ```
 The `your_number` input must be a positive integer larger than 1.
+
+The output is `number`: 1 (true) or 0 (false).
 
 ## Example
 
