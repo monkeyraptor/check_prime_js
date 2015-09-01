@@ -21,3 +21,6 @@ primeCheck(31); // will generate 1 (true)
 Go to <a href="http://portraptor.johanpaul.net/2014/04/prime-number-checker.html" target="_blank" title="new window">PortRaptor</a>.
 
 The methods there are the expansions of this main snippet idea.
+
+## This snippet is
+included in <a href="https://github.com/monkeyraptor/math_operation" target="_blank" title="new window">Math Operation</a> repository. With subtle filter difference.
