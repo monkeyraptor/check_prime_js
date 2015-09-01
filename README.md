@@ -26,5 +26,3 @@ The methods there are the expansions of this main snippet idea.
 
 ## This snippet is
 included in <a href="https://github.com/monkeyraptor/math_operation" target="_blank" title="new window">Math Operations</a> repository.
-
-This is not exactly the same as the one in `Math Operations`.
