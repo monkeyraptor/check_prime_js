@@ -16,3 +16,6 @@ primeCheck(2.4); // will generate 0 (false)
 primeCheck(-3); // will generate 0 (false)
 primeCheck(31); // will generate 1 (true)
 ```
+
+## Demo with UI (user interface)
+Go to <a href="http://portraptor.johanpaul.net/2014/04/prime-number-checker.html" target="_blank" title="new window">PortRaptor</a>.
